@@ -45,8 +45,6 @@ I am familiar with the Unix/Linux operating systems and Git as a version control
             </Link>
         </Card.Body>
       </Card>
-
-
     
       <br />
       <ListingDetails listing={listing} />
