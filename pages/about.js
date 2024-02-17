@@ -43,7 +43,7 @@ I am familiar with the Unix/Linux operating systems and Git as a version control
            <Link href={`/listing/${listing._id}`} passHref legacyBehavior>
                 <a>View Listing Details</a>
             </Link>
-        </Card.Body>
+        </Card.Body>     
       </Card>
     
       <br />
